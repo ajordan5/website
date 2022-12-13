@@ -1765,15 +1765,15 @@ input, select, textarea {
 				height: 48px;
 			}
 
-		.image.avatar72 {
-			width: 72px;
-			height: 72px;
+		.image.avatar96 {
+			width: 96px;
+			height: 96px;
 			background: #f00;
 		}
 
-			.image.avatar72 img {
-				width: 72px;
-				height: 72px;
+			.image.avatar96 img {
+				width: 96px;
+				height: 96px;
 			}
 
 		.image.fit {
@@ -2108,7 +2108,7 @@ input, select, textarea {
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		min-height: 96px;
 		cursor: default;
 	}
 
